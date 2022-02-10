@@ -1,0 +1,2 @@
+MAILTO=niyaaniyan@gmail.com
+*/5 * * * * /home/niya/projects/cronjob/discoveryService.sh >>/tmp/cronlogs.log 2>&1

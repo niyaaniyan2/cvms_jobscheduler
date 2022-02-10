@@ -1,0 +1,1 @@
+curl --silent  --request GET 'http://localhost:9090/v1/camera/discovery'
